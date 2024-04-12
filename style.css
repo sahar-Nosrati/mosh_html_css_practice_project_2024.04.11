@@ -1,0 +1,20 @@
+body {
+  border: 3px solid rgb(193, 229, 247);
+  /* display: block; */
+}
+.gridcontainer {
+  display: grid;
+  grid-template-columns: 100%;
+  grid-gap: 2em;
+  justify-items: center;
+}
+.img {
+  max-width: 431px;
+  height: 200;
+  object-fit: cover;
+}
+.image {
+  width: 431px;
+  height: 431px;
+  border-radius: 215px;
+}
