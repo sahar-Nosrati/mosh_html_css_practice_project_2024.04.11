@@ -1,1 +1,1 @@
-# - Design layout for mobile by grid
+# - Design layout by grid
