@@ -1,1 +1,1 @@
-# mosh_html_css_practice_project_2024.04.11
+# - Design layout for mobile by grid

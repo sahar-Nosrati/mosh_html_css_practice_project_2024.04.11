@@ -14,7 +14,7 @@ body {
   object-fit: cover;
 }
 .image {
-  width: 431px;
-  height: 431px;
-  border-radius: 215px;
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
 }
